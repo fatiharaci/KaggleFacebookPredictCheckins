@@ -12,7 +12,7 @@ https://www.kaggle.com/c/facebook-v-predicting-check-ins#description
 * MySQL
 * Jupyter Notebook
 
-##Contributors: 
+## Contributors: 
 
 * Fatih Aracı
 * Okan Menevşeoğlu
