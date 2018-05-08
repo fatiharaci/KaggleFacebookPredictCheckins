@@ -14,5 +14,5 @@ https://www.kaggle.com/c/facebook-v-predicting-check-ins#description
 
 ## Contributors: 
 
-* Fatih Aracı
-* Okan Menevşeoğlu
+* Fatih Aracı 
+* Okan Menevşeoğlu https://github.com/okanmenevseoglu
