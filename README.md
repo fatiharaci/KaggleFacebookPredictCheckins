@@ -1,4 +1,4 @@
-# KeggleFacebookPredictCheckins
+# Keggle Facebook Predict Checkins
 Keggle  Facebook V: Predicting Check Ins
 
 
