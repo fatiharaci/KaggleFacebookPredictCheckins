@@ -1,5 +1,5 @@
-# Keggle Facebook Predict Checkins
-Keggle  Facebook V: Predicting Check Ins
+# Kaggle Facebook Predict Checkins
+Kaggle  Facebook V: Predicting Check Ins
 
 
 Proeject for Facebook Competition
